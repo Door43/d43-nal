@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nal:home|Door43 (nal)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nal|d43-nal repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nal/archive/master.zip|d43-nal.zip]]
+
+**Recent Changes**
+{{changes>ns = nal}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nal|Ethnologue data]]
+
